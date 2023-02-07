@@ -1,0 +1,11 @@
+num = 7
+amt = 123.45
+code = 'A'
+pi = 3.14159
+population_of_India = 100000000000000000
+msg = "Hi"
+print("NUM = "+str(num))
+print("\n AMT = "+str(amt))
+print("\n CODE = "+str(code))
+print("\n POPULATION OF INDIA = "+str(population_of_India))
+print("\n MESSAGE = "+str(msg))
